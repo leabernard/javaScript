@@ -1,14 +1,3 @@
-function addictionne()
-    {
-        // for(i=0;i<array[longueur];i++){
-        //     var tab =[-2,1,4];
-        // }
-
-    }
-
-
-
-
 function boucle() {
 
     let tab = new Array[3];
