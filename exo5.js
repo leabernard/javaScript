@@ -1,9 +1,10 @@
 function boucle() {
 
-    let tab = new Array[3];
+    let tab = new Array(3);
 
     for (i = 0; i < tab.length; i++)
         tab[i] = i * i;
+        alert(tab);
 }
 
 function boucle2(){
